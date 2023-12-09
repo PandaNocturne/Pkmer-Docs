@@ -29,7 +29,7 @@ modified: 20231115000436
 
 ### 针对 Office 和 PDF 的嵌入
 
-> [!tip]+ 针对 Office 三件套和 PDF 的优化
+> [!tip] 针对 Office 三件套和 PDF 的优化
 > 如果嵌入的是 Office 三件套或者 PDF 的话，会出现弹窗选择插入缩略图还是链接：确定则插入缩略图附加文件回链，取消则只插入连接：
 > ![自定义Excalidraw脚本-建立库外Eagle素材库的连接](https://cdn.pkmer.cn/images/202310202201169.png!pkmer)
 
@@ -97,7 +97,7 @@ for (i of img) {
 
 同样需要保存为 md 文件保存到指定文件夹
 
-> [!caution]+ 需要修改的路径
+> [!caution] 需要修改的路径
 > ![自定义Excalidraw脚本-建立库外Eagle素材库的连接](https://cdn.pkmer.cn/images/Pasted%20image%2020231029203630.png!pkmer)
 > - 第一次安装改脚本时，单击运行脚本一下，然后在 Excalidraw 插件设置中会出现这个选项
 > - 修改为 Obsidian 中存放素材的路径 (已创建的路径)
